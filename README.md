@@ -1,7 +1,7 @@
 > ### Pozzo Research Group fork
 > This is the [Pozzo Research Group](https://github.com/pozzo-research-group)'s fork of [machineagency/science_jubilee](https://github.com/machineagency/science_jubilee), the control software for the [Science Jubilee](https://science-jubilee.readthedocs.io/en/latest/) platform. Documentation, the latest code and the tool library live upstream.
 >
-> **Our contributions.** <DRAFT, Lilo to confirm: Group members Maria Politi and Brenden Pelkie co-developed the Python control software with the Machine Agency at the University of Washington, including the deck and labware system and the OT-2 pipette and camera tools.>
+> **Our contributions.** Group members Maria Politi and Brenden Pelkie co-developed the Python control software with the Machine Agency at the University of Washington, including the deck and labware system and the OT-2 pipette and camera tools.
 >
 > **Group projects built on Science Jubilee**
 > - [digital_pipette_server](https://github.com/pozzo-research-group/digital_pipette_server): Raspberry Pi server for the syringe-based [Digital Pipette](https://doi.org/10.1039/D3DD00115F) tool
