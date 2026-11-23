@@ -1,3 +1,15 @@
+> ### Pozzo Research Group fork
+> This is the [Pozzo Research Group](https://github.com/pozzo-research-group)'s fork of [machineagency/science_jubilee](https://github.com/machineagency/science_jubilee), the control software for the [Science Jubilee](https://science-jubilee.readthedocs.io/en/latest/) platform. Documentation, the latest code and the tool library live upstream.
+>
+> **Our contributions.** <DRAFT, Lilo to confirm: Group members Maria Politi and Brenden Pelkie co-developed the Python control software with the Machine Agency at the University of Washington, including the deck and labware system and the OT-2 pipette and camera tools.>
+>
+> **Group projects built on Science Jubilee**
+> - [digital_pipette_server](https://github.com/pozzo-research-group/digital_pipette_server): Raspberry Pi server for the syringe-based [Digital Pipette](https://doi.org/10.1039/D3DD00115F) tool
+> - [sonication_station](https://github.com/pozzo-research-group/sonication_station): sample preparation with sonication
+> - [jubilee_pipette_BOdemo](https://github.com/pozzo-research-group/jubilee_pipette_BOdemo): autonomous color matching with Bayesian optimization
+> - [automated-mesoporous-silica](https://github.com/pozzo-research-group/automated-mesoporous-silica): code for "Open-hardware automation platform for accelerated sol-gel nanomaterial synthesis"
+> - [gel-reaction-diffusion](https://github.com/pozzo-research-group/gel-reaction-diffusion), [Polymer_drop_casting](https://github.com/pozzo-research-group/Polymer_drop_casting), [silica-np-synthesis](https://github.com/pozzo-research-group/silica-np-synthesis)
+
 # 🔬🧪 Science Jubilee ⚡⚙️
 ### Controlling Jubilees for Science!
 
